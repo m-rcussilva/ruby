@@ -44,3 +44,7 @@ Each name should be on a separate line and in lowercase.
 If you find any bugs or have suggestions for improvements, feel free to open an issue
 or pull request on the SpellChecker repository:
 https://github.com/m-rcussilva/ruby/tree/main/spellchecker
+
+### Reference
+
+https://projectbook.code.brettchalupa.com/command-line-interfaces/spell-checker.html
