@@ -35,7 +35,7 @@ This will convert my_file.md to HTML and save it to my_file.html.
 
 - MdProcessor supports the following Markdown elements: headers, text, strong, and ~~links~~.
 - If you want to add support for additional Markdown elements, you can modify the render method in the MdProcessor class.
-- MdProcessor uses the Kramdown library for parsing Markdown.
+- MdProcessor uses the [Kramdown](https://kramdown.gettalong.org) library for parsing Markdown.
 
 ### Reference
 
